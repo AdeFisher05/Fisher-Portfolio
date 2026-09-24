@@ -56,7 +56,7 @@ export class App {
     },
     {
       name: 'Tooling',
-      technologies: 'Git, Docker, CI/CD',
+      technologies: 'Git',
       percentage: 74
     }
   ];
